@@ -1,0 +1,2 @@
+export const AUTH_CHECK = 'AUTH_CHECK';
+export const FETCH_EMPLOYEES = 'FETCH_EMPLOYEES';
